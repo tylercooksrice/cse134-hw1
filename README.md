@@ -1,3 +1,3 @@
 # CSE134B-SS20-HW1
-# Name:
-# PID:
+# Name: Tyler Khuc 
+# PID: A18036067
